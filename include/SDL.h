@@ -28,6 +28,8 @@
 #ifndef SDL_h_
 #define SDL_h_
 
+// uh oh Alex is starting to modify dependencies again...
+
 #include "SDL_main.h"
 #include "SDL_stdinc.h"
 #include "SDL_assert.h"
